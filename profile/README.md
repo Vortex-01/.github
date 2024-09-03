@@ -86,8 +86,10 @@ To create a low-cost satellite, called Vortex-01, that provides free Wi-Fi via a
 
 ## Repositories
 
-- **3D Model:** [GitHub - Vortex-01 Model](https://github.com/Vortex-01/Model)
-- **Source Code:** [GitHub - Vortex-01 Source Code](https://github.com/Vortex-01/Source-Code)
+### - **3D Model:** [GitHub - Vortex-01 Model](https://github.com/Vortex-01/Model)
+![Alt](https://repobeats.axiom.co/api/embed/9ddf7f99372b9116054eb435f38235629e78000a.svg "Repobeats analytics image")
+### - **Source Code:** [GitHub - Vortex-01 Source Code](https://github.com/Vortex-01/Source-Code)
+![Alt](https://repobeats.axiom.co/api/embed/b74b3efdfb40d3d4cebf33579fcd644f442e3288.svg "Repobeats analytics image")
 
 ## Recognition Objective
 
