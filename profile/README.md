@@ -1,9 +1,9 @@
 # Vortex-01 Project
 
-[![pt-BR](https://img.shields.io/badge/lang-pt--BR-green.svg)](README.pt-BR.md)
-[![es](https://img.shields.io/badge/lang-es-red)](README.es.md)
-[![fr](https://img.shields.io/badge/lang-fr-blue)](README.fr.md)
-[![ru](https://img.shields.io/badge/lang-ru-yellow.svg)](README.ru.md)
+[![pt-BR](https://img.shields.io/badge/lang-pt--BR-green.svg)](https://github.com/Vortex-01/.github/blob/main/README.pt-BR.md)
+[![es](https://img.shields.io/badge/lang-es-red)](https://github.com/Vortex-01/.github/blob/main/README.es.md)
+[![fr](https://img.shields.io/badge/lang-fr-blue)](https://github.com/Vortex-01/.github/blob/main/README.fr.md)
+[![ru](https://img.shields.io/badge/lang-ru-yellow.svg)](https://github.com/Vortex-01/.github/blob/main/README.ru.md)
 
 ## Objective
 To create a low-cost satellite, called Vortex-01, that provides free Wi-Fi via a satellite connection. The satellite will be equipped with sensors, power systems, and a remote security system.
