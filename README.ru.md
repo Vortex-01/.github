@@ -1,10 +1,5 @@
 # Проект Вихрь-01
 
-[![pt-BR](https://img.shields.io/badge/lang-pt--BR-green.svg)](README.pt-BR.md)
-[![es](https://img.shields.io/badge/lang-es-red)](README.es.md)
-[![fr](https://img.shields.io/badge/lang-fr-blue)](README.fr.md)
-[![en-us](https://img.shields.io/badge/lang-ru-yellow.svg)](README.md)
-
 ## Цель
 Создайте недорогой спутник под названием Vortex-01, который обеспечит бесплатную сеть Wi-Fi через спутниковое соединение. Спутник будет оснащен датчиками, системами питания и удаленной системой безопасности.
 
