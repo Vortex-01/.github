@@ -1,5 +1,10 @@
 # Projeto Vortex-01
 
+[![en-us](https://img.shields.io/badge/lang-pt--BR-green.svg)](README.md)
+[![es](https://img.shields.io/badge/lang-es-red)](README.es.md)
+[![fr](https://img.shields.io/badge/lang-fr-blue)](README.fr.md)
+[![ru](https://img.shields.io/badge/lang-ru-yellow.svg)](README.ru.md)
+
 ## Objetivo
 Criar um satélite de baixo custo, chamado Vortex-01, que fornece uma rede Wi-Fi gratuita através de uma conexão via satélite. O satélite será equipado com sensores, sistemas de energia e um sistema de segurança remoto.
 
